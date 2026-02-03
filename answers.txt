@@ -31,3 +31,19 @@ Daily Scrum/Standup Meeting:
 Sprint Retrospective Meeting:
 - During this meeting, team members dicuss work that was completed.
 - During this meeting, team members also discuss incomplete work and move it to the backlog.
+
+QUESTION D
+
+Epic vs Story vs Bug vs Task
+
+Epic
+- An epic is a large body of work that can be broken down into several smaller stories.
+
+Story
+- A story is a software system requirement that is expressed in a few short sentences.
+
+Bug 
+- A bug is a specific type of issue used to track defects or problems in software that prevent it from working as intended. 
+
+Task
+- A task is a standard work item that represents a specific piece of work that needs to be done.
