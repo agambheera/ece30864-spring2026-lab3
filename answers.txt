@@ -15,3 +15,19 @@ Roles and Responsibilites of Scrum Master
 
 Roles and Responsibilites of Product Owner
 - The Product Owner is responible for setting the direction for the team and handles releases and stakeholder management.
+
+QUESTION C
+
+Types of Meetings During a Sprint Cycle
+
+Sprint Planning Meeting:
+- During this meeting, what to complete in the coming sprint is dicussed.
+- During this meeting, which stories to move from the backlog to the current sprint is discussed.
+
+Daily Scrum/Standup Meeting:
+- During this meeting, team members discuss work completed.
+- During this meeting, team members discuss their work plan for the day and any blockers.
+
+Sprint Retrospective Meeting:
+- During this meeting, team members dicuss work that was completed.
+- During this meeting, team members also discuss incomplete work and move it to the backlog.
