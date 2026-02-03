@@ -7,3 +7,11 @@ Pros of Agile Development
 Cons of Agile Development
 - The development cycle is a very high time commitment because it involves ongoing involvement from clients and teams.
 - The development cycle can also be challenging to implement for projects that need strict upfront planning.
+
+QUESTION B
+
+Roles and Responsibilites of Scrum Master
+- The Scrum Master is responsible for all scrum-related tasks like Jira tooling and facilitating sprints and meetings.
+
+Roles and Responsibilites of Product Owner
+- The Product Owner is responible for setting the direction for the team and handles releases and stakeholder management.
