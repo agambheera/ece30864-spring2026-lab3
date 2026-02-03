@@ -1,0 +1,9 @@
+QUESTION A
+
+Pros of Agile Development
+- It allows for a very iterative approach by breaking the project down to several stages.
+- It allows developers to constantly collaborate with customers, constantly adding value to customers.
+
+Cons of Agile Development
+- The development cycle is a very high time commitment because it involves ongoing involvement from clients and teams.
+- The development cycle can also be challenging to implement for projects that need strict upfront planning.
